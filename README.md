@@ -42,7 +42,7 @@ Make sure Python 3 is installed.
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/port-scanner.git
+https://github.com/dank-harsh/port-scanner-v2.git
 ```
 
 Navigate to the project directory:
