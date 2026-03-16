@@ -48,7 +48,7 @@ https://github.com/dank-harsh/port-scanner-v2.git
 Navigate to the project directory:
 
 ```
-cd port-scanner
+cd port-scanner-v2
 ```
 
 No external libraries are required.
